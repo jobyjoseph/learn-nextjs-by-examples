@@ -13,7 +13,7 @@ export default function Page() {
       </p>
       <p className="mt-4 text-xl font-semibold">{getRandomNumber()}</p>
       <a
-        href="https://nextjs.org/docs/app/building-your-application/caching#data-level-caching"
+        href="https://github.com/jobyjoseph/learn-nextjs-by-examples/blob/main/app/(caching)/data-level-caching/page.tsx"
         className="mt-4 text-blue-500 hover:underline block"
         target="_blank"
       >
