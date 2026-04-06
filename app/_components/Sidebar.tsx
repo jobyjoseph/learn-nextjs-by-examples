@@ -21,6 +21,14 @@ export function Sidebar() {
             UI Level Caching
           </Link>
         </li>
+        <li>
+          <Link
+            href="/cached-function-with-arguments"
+            className="text-gray-700 hover:text-gray-900"
+          >
+            Cached function With Arguments
+          </Link>
+        </li>
       </ul>
     </div>
   );
