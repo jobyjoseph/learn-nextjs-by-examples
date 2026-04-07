@@ -29,6 +29,14 @@ export function Sidebar() {
             Cached function With Arguments
           </Link>
         </li>
+        <li>
+          <Link
+            href="/cached-functions-with-different-lexical-scope"
+            className="text-gray-700 hover:text-gray-900"
+          >
+            Cached functions with different lexical scope
+          </Link>
+        </li>
       </ul>
     </div>
   );
